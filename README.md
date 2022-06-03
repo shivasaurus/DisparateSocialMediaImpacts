@@ -13,4 +13,6 @@ is a utility for performing the Adebayo/Kagal method mentioned in the paper.
 
 VisualizeR^2Dec.ipynb creates the bar plots shown in the paper. 
 
-AllQuadModels.ipynb contains the quadratic regression results for each model as well as the code for the scatterplot in the paper. 
+AllQuadModels.ipynb contains the quadratic regression results for each model.
+
+TwitterData and RedditData contain the scraping code for Twitter and Reddit, respectively. Uniswap contains the API calls that were used to get transaction data for Shiba. 
